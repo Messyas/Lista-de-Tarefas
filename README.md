@@ -31,4 +31,10 @@ cd api
 `````
 yarn start
 `````
+````
+cd frontend
+````
+`````
+yarn start
+`````
 O navegador deverá abrir automaticamente em: http://localhost:3000
